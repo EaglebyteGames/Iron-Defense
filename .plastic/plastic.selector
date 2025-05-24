@@ -1,0 +1,4 @@
+repository "IronDefenseHorde_25.01.11_1.hafta_v1/IronDefenseHorde_25.01.11_1.hafta_v1@20066805506144@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83f4685a0b63b964b8e4dcebabdc9b5e, type: 3}
+  m_Name: DataBase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: CannonTower
+    <ObjectType>k__BackingField: CannonTower
+    <ID>k__BackingField: 0
+    <Money>k__BackingField: 10
+    <Size>k__BackingField: {x: 7, y: 7}
+    <Prefab>k__BackingField: {fileID: 5917056586471054226, guid: 13a97531ed606d443b0269dc65b80270, type: 3}
+  - <Name>k__BackingField: CatapultTower
+    <ObjectType>k__BackingField: CatapultTower
+    <ID>k__BackingField: 1
+    <Money>k__BackingField: 10
+    <Size>k__BackingField: {x: 7, y: 7}
+    <Prefab>k__BackingField: {fileID: 6347708478698216849, guid: 8eb85d04d3df016479328ebd1b230989, type: 3}
+  - <Name>k__BackingField: BowmanTower
+    <ObjectType>k__BackingField: BowmanTower
+    <ID>k__BackingField: 2
+    <Money>k__BackingField: 10
+    <Size>k__BackingField: {x: 9, y: 9}
+    <Prefab>k__BackingField: {fileID: 4719307979049748451, guid: f064ab5d89c9a064990d827c5bb32a11, type: 3}
+  - <Name>k__BackingField: MiniBase
+    <ObjectType>k__BackingField: MiniBase
+    <ID>k__BackingField: 3
+    <Money>k__BackingField: 20
+    <Size>k__BackingField: {x: 10, y: 10}
+    <Prefab>k__BackingField: {fileID: 8084851084916779351, guid: 5966220713d54a242bbb666140d4a740, type: 3}
+  - <Name>k__BackingField: Base
+    <ObjectType>k__BackingField: Base
+    <ID>k__BackingField: 4
+    <Money>k__BackingField: 30
+    <Size>k__BackingField: {x: 20, y: 20}
+    <Prefab>k__BackingField: {fileID: 1829786457946481652, guid: ac84062d7effd23429ddbbafd9b59b7f, type: 3}
